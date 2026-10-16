@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+chime_work.wav
+chime_break.wav

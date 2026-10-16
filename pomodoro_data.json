@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "work_duration": 25,
+    "short_break": 5,
+    "long_break": 15,
+    "cycles_for_long_break": 4,
+    "sound_enabled": true,
+    "notifications_enabled": true,
+    "auto_start_breaks": false,
+    "auto_start_work": false,
+    "always_on_top": true,
+    "theme": "dark"
+  },
+  "stats": {
+    "date": "2026-10-15",
+    "today_pomodoros": 0,
+    "today_minutes": 0,
+    "total_pomodoros": 8,
+    "total_minutes": 200
+  },
+  "streak_data": {
+    "current_streak": 1,
+    "best_streak": 1,
+    "last_study_date": "2026-10-14",
+    "protectors": 1,
+    "is_frozen": false
+  },
+  "tasks": [
+    {
+      "id": 1792017861851,
+      "text": "apli1 parcial 3",
+      "completed": false,
+      "pomodoros_done": 7
+    }
+  ],
+  "active_task_id": 1792017861851
+}
